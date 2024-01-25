@@ -1,0 +1,1 @@
+var json_Toko_12 = {"type":"FeatureCollection","name":"Toko_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","title":"Toko Ihsan Bangunan"},"geometry":{"type":"Point","coordinates":[101.46312283251882,-0.659367454670913]}}]}
